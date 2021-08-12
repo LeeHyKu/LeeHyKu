@@ -13,10 +13,11 @@
   <a href="https://kotlinlang.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=Kotlin&logoColor=white"/></a>
   <a href="https://dart.dev/" style="text-decoration: none"><img src="https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white"/></a>
   <a href="https://www.php.net/" style="text-decoration: none"><img src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration: none"><img src="https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
   
   <h3 align="center">Just Hobby</h3>
   <a href="https://en.cppreference.com/w/c" style="text-decoration: none"><img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/cpp" style="text-decoration: none"><img src="https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
+  <a href="https://en.cppreference.com/w/cpp" style="text-decoration: none"><img src="https://img.shields.io/badge/C%2B%2B-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
 </div>
 <br/>
 <h1 align="center">What i can</h1>
@@ -28,7 +29,16 @@
   <a href="https://mariadb.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
   
   <h3 align="center">Frontend</h3>
+  <a href="https://reactjs.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
+  <a href="https://flutter.dev/" style="text-decoration: none"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
+  <a href="https://dotnet.microsoft.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/></a>
   
+  <h3 align="center">Technic</h3>
+  <a href="https://mochajs.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/></a>
+  
+  <h3 align="center">And the other things</h3>
+  <a href="https://git-scm.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
+  <a href="https://github.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </div>
 
 <h1 align="center">What i did</h1>
