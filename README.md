@@ -1,5 +1,5 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=HK.%20Lee&height=300)](https://hklee.me)
-<h3 align="center">What i use</h3>
+<h2 align="center">What i use</h3>
 <div align="center">
   <h4 align="center">My bread and butter</h4>
   <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" style="text-decoration: none"><img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=Javascript&logoColor=white"/></a>
@@ -17,7 +17,7 @@
   <a href="https://en.cppreference.com/w/cpp" style="text-decoration: none"><img src="https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
 </div>
 <br/>
-<h3 align="center">What i can</h3>
+<h2 align="center">What i can</h3>
 <div align="center">
   <h4 align="center">Backend</h4>
   <a href="https://nodejs.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Node.js-5455FE?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
