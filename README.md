@@ -44,10 +44,10 @@
   <a href="https://visualstudio.microsoft.com/ko/" style="text-decoration: none"><img src="https://img.shields.io/badge/VS-5C2D91?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/VSC-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
   <a href="https://github.com/cdr/code-server" style="text-decoration: none"><img src="https://img.shields.io/badge/Code%20Server-lightgray?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+  <a href="https://notepad-plus-plus.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?&style=for-the-badge&logo=Notepad%2B%2B&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/idea/" style="text-decoration: none"><img src="https://img.shields.io/badge/IDEA-000000?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/pycharm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Pycharm-000000?&style=for-the-badge&logo=Pycharm&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/webstorm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Webstorm-000000?&style=for-the-badge&logo=WebStorm&logoColor=white"/></a>
-  <a href="https://notepad-plus-plus.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?&style=for-the-badge&logo=Notepad%2B%2B&logoColor=white"/></a>
 </div>
 
 <h1 align="center">What i did</h1>
