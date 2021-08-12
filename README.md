@@ -1,5 +1,5 @@
 <a href="https://hklee.me"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=HK.%20Lee&height=300"/></a>
-<h1 align="center">What i use</h1>
+<h1 align="center">What i can</h1>
 <div align="center">
   <h3 align="center">My bread and butter</h3>
   <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" style="text-decoration: none"><img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=Javascript&logoColor=white"/></a>
@@ -18,10 +18,7 @@
   <h3 align="center">Just Hobby</h3>
   <a href="https://en.cppreference.com/w/c" style="text-decoration: none"><img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/></a>
   <a href="https://en.cppreference.com/w/cpp" style="text-decoration: none"><img src="https://img.shields.io/badge/C%2B%2B-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
-</div>
-<br/>
-<h1 align="center">What i can</h1>
-<div align="center">
+  
   <h3 align="center">Backend</h3>
   <a href="https://nodejs.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Node.js-5455FE?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
   <a href="https://expressjs.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>
@@ -39,6 +36,18 @@
   <h3 align="center">And the other things</h3>
   <a href="https://git-scm.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
   <a href="https://github.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+</div>
+<br/>
+<h1 align="center">What i use</h1>
+<div align="center">
+  <h3 align="center">IDE</h3>
+  <a href="https://visualstudio.microsoft.com/ko/" style="text-decoration: none"><img src="https://img.shields.io/badge/VS-5C2D91?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/VSC-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+  <a href="https://github.com/cdr/code-server" style="text-decoration: none"><img src="https://img.shields.io/badge/Code%20Server-lightgray?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/idea/" style="text-decoration: none"><img src="https://img.shields.io/badge/IDEA-000000?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Pycharm-000000?&style=for-the-badge&logo=Pycharm&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/webstorm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Webstorm-000000?&style=for-the-badge&logo=WebStorm&logoColor=white"/></a>
+  <a href="https://notepad-plus-plus.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?&style=for-the-badge&logo=Notepad%2B%2B&logoColor=white"/></a>
 </div>
 
 <h1 align="center">What i did</h1>
