@@ -2,8 +2,8 @@
 <h1 align="center">What i am</h1>
 <div align="center">
   <a href="https://hklee.me" style="text-decoration: none"><img src="https://github.com/LeeHyKu/LeeHyKu/raw/main/Starnundmond.png"/></a><br/>
-  인셍을 날로 먹고 싶어하는 고등학생입니다<br/>
-  프로그래밍은 중학교 1학년때 시작했습니다<br/>
+  인셍을 날로 먹고 싶어 하는 고등학생입니다<br/>
+  프로그래밍은 중학교 1학년 때 시작했습니다<br/>
 </div>
 <h1 align="center">What i can</h1>
 <div align="center">
