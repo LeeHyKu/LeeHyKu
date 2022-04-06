@@ -13,12 +13,13 @@
   <a href="https://www.w3schools.com/css/default.asp" style="text-decoration: none"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
   <a href="https://www.python.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
   <a href="https://www.java.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+  <a href="https://www.w3schools.com/sql/" style="text-decoration: nont"><img src="https://img.shields.io/badge/SQL-003545?&style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration: none"><img src="https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
   
   <h3 align="center">Sub</h3>
   <a href="https://kotlinlang.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=Kotlin&logoColor=white"/></a>
   <a href="https://dart.dev/" style="text-decoration: none"><img src="https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white"/></a>
   <a href="https://www.php.net/" style="text-decoration: none"><img src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration: none"><img src="https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
   
   <h3 align="center">Just Hobby</h3>
   <a href="https://en.cppreference.com/w/c" style="text-decoration: none"><img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/></a>
@@ -45,14 +46,30 @@
 <br/>
 <h1 align="center">What i use</h1>
 <div align="center">
+  <h3 align="center">OS</h3>
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/></a>
+  <a href="https://www.apple.com/kr/macos/monterey/"><img src="https://img.shields.io/badge/macOS%20Monterey-000000?style=for-the-badge&logo=macOS&logoColor=white"/></a>
+  <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu%2020.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
+  
   <h3 align="center">IDE</h3>
-  <a href="https://visualstudio.microsoft.com/ko/" style="text-decoration: none"><img src="https://img.shields.io/badge/VS-5C2D91?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/VSC-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
-  <a href="https://github.com/cdr/code-server" style="text-decoration: none"><img src="https://img.shields.io/badge/Code%20Server-lightgray?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
-  <a href="https://notepad-plus-plus.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?&style=for-the-badge&logo=Notepad%2B%2B&logoColor=white"/></a>
-  <a href="https://www.jetbrains.com/idea/" style="text-decoration: none"><img src="https://img.shields.io/badge/IDEA-000000?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Pycharm-000000?&style=for-the-badge&logo=Pycharm&logoColor=white"/></a>
-  <a href="https://www.jetbrains.com/webstorm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Webstorm-000000?&style=for-the-badge&logo=WebStorm&logoColor=white"/></a>
+  <a href="https://visualstudio.microsoft.com/ko/" style="text-decoration: none"><img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" style="text-decoration: none"><img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+  <a href="https://github.com/cdr/code-server" style="text-decoration: none"><img src="https://img.shields.io/badge/Code%20Server-lightgray?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+  <a href="https://notepad-plus-plus.org/" style="text-decoration: none"><img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/idea/" style="text-decoration: none"><img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/webstorm/" style="text-decoration: none"><img src="https://img.shields.io/badge/Webstorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/></a>
+  
+  <h3 align="center">Cloud Computing</h3>
+  <a href="https://aws.amazon.com" style="text-decoration: none"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/ec2" style="text-decoration: none"><img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/rds" style="text-decoration: none"><img src="https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
+  <a href="https://lightsail.aws.amazon.com" style="text-decoration: none"><img src="https://img.shields.io/badge/AWS%20Lightsail-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/s3" style="text-decoration: none"><img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"/></a>
+  
+  <h3 align="center">DevOps</h3>
+  <a href="https://github.com/features/actions" style="text-decoration: none"><img src="https://img.shields.io/badge/Github%20Actions-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/codedeploy"><img src="https://img.shields.io/badge/AWS%20CodeDeploy-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
 </div>
 
 <h1 align="center">What i did</h1>
