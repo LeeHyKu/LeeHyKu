@@ -1,7 +1,7 @@
 <a href="https://hklee.me"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=HK.%20Lee&height=300"/></a>
 <h1 align="center">What i am</h1>
 <div align="center">
-  고등학생입니다<br/>
+  대학생입니다<br/>
   프로그래밍은 중학교 1학년 때 시작했습니다<br/>
 </div>
 <h3 align="center">Visitor</h3>
